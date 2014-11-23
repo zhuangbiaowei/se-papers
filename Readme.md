@@ -1,6 +1,6 @@
 # 1st
 
-* A survey on social software engineering. [paper] [slides]
+* A survey on social software engineering. [[paper](paper9.pdf)] [[slides](slides9.pdf)]
 	* Navid Ahmadi, Mehdi Jazayeri, Francesco Lelli, and Sasa Nesic. 
 * Bridging Ontologies and Folksonomies to Leverage Knowledge Sharing : a State of the Art. [paper] [slides]
 	* Freddy Limpens, Fabien Gandon, and Michel Buffa. 
