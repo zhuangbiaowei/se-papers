@@ -27,7 +27,7 @@
 
 # 2nd
 
-* Towards Efficient Document Content Sharing in Social Networks.
+* Towards Efficient Document Content Sharing in Social Networks. [[paper](sosea2009.pdf)]
 * 在社会网络中实现更有效的文档内容分享
 	* Sasa Nesic, Francesco Lelli, Mehdi Jazayeri and Dragan Gasevic
 * Towards the Web of Applications: Incorporating End User Programming into the Web 2.0 Communities.
