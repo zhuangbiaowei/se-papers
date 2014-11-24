@@ -83,7 +83,7 @@
 
 # 5th
 
-* What Type of Thread Can Get Feedback in OSS User Mailing List?
+* What Type of Thread Can Get Feedback in OSS User Mailing List? [[paper](fsews13sse-id7-p-18641-final.pdf)]
 	* Akinori Ihara, Yuji Tsuda, and Kenichi Matsumoto
 	* NAIST, Japan
 * Towards Collective Requirements Engineering
