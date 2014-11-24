@@ -30,7 +30,7 @@
 * Towards Efficient Document Content Sharing in Social Networks. [[paper](sosea2009.pdf)]
 * 在社会网络中实现更有效的文档内容分享
 	* Sasa Nesic, Francesco Lelli, Mehdi Jazayeri and Dragan Gasevic
-* Towards the Web of Applications: Incorporating End User Programming into the Web 2.0 Communities.
+* Towards the Web of Applications: Incorporating End User Programming into the Web 2.0 Communities. [[paper](SoSEA09.pdf)]
 * 对应用程序的网站：整合最终用户编程到Web2.0社区
 	* Navid Ahmadi, Mehdi Jazayeri, Francesco Lelliand Alexander Repenning
 * Community Support for Software Development: the Initial Steps.
